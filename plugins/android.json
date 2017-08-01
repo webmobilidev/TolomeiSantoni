@@ -7,38 +7,38 @@
         "files": {}
     },
     "installed_plugins": {
-        "cordova-custom-config": {
-            "PACKAGE_NAME": "com.designbest.tolomeisantoni"
-        },
-        "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.designbest.tolomeisantoni"
-        },
-        "cordova-plugin-dialogs": {
-            "PACKAGE_NAME": "com.designbest.tolomeisantoni"
-        },
-        "cordova-plugin-inappbrowser": {
-            "PACKAGE_NAME": "com.designbest.tolomeisantoni"
-        },
-        "cordova-plugin-network-information": {
-            "PACKAGE_NAME": "com.designbest.tolomeisantoni"
-        },
-        "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.designbest.tolomeisantoni"
-        },
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.designbest.tolomeisantoni"
-        },
-        "cordova-plugin-x-socialsharing": {
-            "PACKAGE_NAME": "com.designbest.tolomeisantoni"
+            "PACKAGE_NAME": "com.tolomeisantoni.tolomeisantoni"
         },
         "phonegap-plugin-push": {
             "SENDER_ID": "xxxxx",
-            "PACKAGE_NAME": "com.designbest.tolomeisantoni"
+            "PACKAGE_NAME": "com.tolomeisantoni.tolomeisantoni"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.tolomeisantoni.tolomeisantoni"
+        },
+        "cordova-custom-config": {
+            "PACKAGE_NAME": "com.tolomeisantoni.tolomeisantoni"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.tolomeisantoni.tolomeisantoni"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.tolomeisantoni.tolomeisantoni"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.tolomeisantoni.tolomeisantoni"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.tolomeisantoni.tolomeisantoni"
+        },
+        "cordova-plugin-x-socialsharing": {
+            "PACKAGE_NAME": "com.tolomeisantoni.tolomeisantoni"
         }
     },
     "dependent_plugins": {
         "es6-promise-plugin": {
-            "PACKAGE_NAME": "com.designbest.tolomeisantoni"
+            "PACKAGE_NAME": "com.tolomeisantoni.tolomeisantoni"
         }
     }
 }
